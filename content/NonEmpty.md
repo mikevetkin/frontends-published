@@ -19,7 +19,11 @@ const statuses: NonEmptyArray<string> = [];
 ```ts
 const statuses: NonEmptyArray<string> = ['active'];
 ```
-# Материалы
+
+## А вот ещё кое какие статьи по теме
+- [[Автоматическая генерация кода с использованием Hygen]]
+
+## Материалы
 - https://hackage.haskell.org/package/base-4.15.0.0/docs/Data-List-NonEmpty.html;
 - https://github.com/pointfreeco/swift-nonempty - Реализация на Swift;
 - https://github.com/typelift/Swiftz - Библиотека для FP в Swift;
