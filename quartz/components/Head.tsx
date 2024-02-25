@@ -21,6 +21,9 @@ export default (() => {
       <head>
         <title>{title}</title>
         <meta charSet="utf-8" />
+        {/*  */}
+        <meta name="telegram:channel" content="@mikevetkin" />
+        {/*  */}
         {cfg.theme.cdnCaching && (
           <>
             <link rel="preconnect" href="https://fonts.googleapis.com" />
