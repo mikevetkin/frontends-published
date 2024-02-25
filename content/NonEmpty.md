@@ -22,6 +22,7 @@ const statuses: NonEmptyArray<string> = ['active'];
 
 ## А вот ещё кое какие статьи по теме
 - [[Автоматическая генерация кода с использованием Hygen]]
+- [[Parsed Wrapper]]
 
 ## Материалы
 - https://hackage.haskell.org/package/base-4.15.0.0/docs/Data-List-NonEmpty.html;
