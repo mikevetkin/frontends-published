@@ -22,12 +22,15 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
   function ContentMetadata({ cfg, fileData, displayClass }: QuartzComponentProps) {
     const text = fileData.text
 
+    const dateString = fileData.dates && formatDate(getDate(cfg, fileData)!, cfg.locale)
+
     if (text) {
       const segments: string[] = []
 
-      if (fileData.dates) {
-        segments.push(formatDate(getDate(cfg, fileData)!, cfg.locale))
-      }
+      // FIXME: Красиво сделать
+      // if (fileData.dates) {
+      //   segments.push(formatDate(getDate(cfg, fileData)!, cfg.locale))
+      // }
 
       // Display reading time if enabled
       if (options.showReadingTime) {
@@ -38,7 +41,11 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
         segments.push(displayedTime)
       }
 
-      return <p class={classNames(displayClass, "content-meta")}>{segments.join(", ")}</p>
+      return (
+        <p class={classNames(displayClass, "content-meta")}>
+          <span id="date">{dateString}</span>, {segments.join(", ")}
+        </p>
+      )
     } else {
       return null
     }
