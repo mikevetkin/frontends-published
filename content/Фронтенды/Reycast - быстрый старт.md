@@ -31,16 +31,16 @@ Raycast появился в 2020, но без множества плагино�
 
 ## Материалы
 
-• https://www.raycast.com/ - скачать
-• https://manual.raycast.com/ - мануал
-• https://snippets.ray.so - библиотека снипетов
-• https://www.raycast.com/store#list - расширения
+- https://www.raycast.com/ - скачать
+- https://manual.raycast.com/ - мануал
+- https://snippets.ray.so - библиотека снипетов
+- https://www.raycast.com/store#list - расширения
 
 ## Вдохновляют
 
-• Маслов А.С.
-• @Demruth
-• @amtakethat
+- Маслов А.С.
+- @Demruth
+- @amtakethat
 
 ## Тэги
 
