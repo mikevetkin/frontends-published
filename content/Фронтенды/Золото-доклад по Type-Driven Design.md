@@ -51,4 +51,5 @@ author: Михаил Веткин
 - [Domain Modeling Made Functional](https://www.amazon.com/Domain-Modeling-Made-Functional-Domain-Driven-ebook/dp/B07B44BPFB); - книга Скотт Влашин;
 - [Boolean Blindness](https://existentialtype.wordpress.com/2011/03/15/boolean-blindness/) - статья Роберта Харпера;
 - [Algebraic blindness](https://github.com/quchen/articles/blob/master/algebraic-blindness.md) - статья Дэвида Лупосчаинского;
-- [Value-Oriented Programming](https://matt.diephouse.com/2018/08/value-oriented-programming/) - статья Мэтта Дипхауса.
+- [Value-Oriented Programming](https://matt.diephouse.com/2018/08/value-oriented-programming/) - статья Мэтта Дипхауса;
+- [Swiftology](https://swiftology.io/) - блог Алексея Озуна.
