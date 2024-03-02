@@ -46,9 +46,9 @@ author: Михаил Веткин
 
 ## Материалы
 
-- [Parse, don’t validate](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/) - статья Алексиса Кинга;
+- [Boundaries](https://www.destroyallsoftware.com/talks/boundaries) - доклад Гэри Бернхардта;
+- [Parse, don’t validate](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/) - статья Алексис Кинг;
 - [Domain Modeling Made Functional](https://www.amazon.com/Domain-Modeling-Made-Functional-Domain-Driven-ebook/dp/B07B44BPFB); - книга Скотт Влашин;
 - [Boolean Blindness](https://existentialtype.wordpress.com/2011/03/15/boolean-blindness/) - статья Роберта Харпера;
 - [Algebraic blindness](https://github.com/quchen/articles/blob/master/algebraic-blindness.md) - статья Дэвида Лупосчаинского;
-- [Boundaries](https://www.destroyallsoftware.com/talks/boundaries) - доклад Гэри Бернхардта;
 - [Value-Oriented Programming](https://matt.diephouse.com/2018/08/value-oriented-programming/) - статья Мэтта Дипхауса.
