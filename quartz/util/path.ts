@@ -161,8 +161,6 @@ export function slugifyFilePath(fp: FilePath, excludeExt?: boolean): FullSlug {
     slug = slug.replace(/_index$/, "index")
   }
 
-  console.log("slug :>> ", slug)
-
   return (slug + ext) as FullSlug
 }
 
@@ -290,7 +288,6 @@ export function transformLink(src: FullSlug, target: string, opts: TransformOpti
   let targetSlug = transformInternalLink(target)
 
   // FIXME: Здесь
-  console.log("targetSlug :>> ", targetSlug)
 
   if (opts.strategy === "relative") {
     return targetSlug as RelativeURL
