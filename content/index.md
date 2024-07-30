@@ -1,7 +1,7 @@
 ---
 title: Заметки
 ---
-- [[It's a hell of a thing, changing an ide]]
+- [[Changing an IDE]]
 - [[Золото-доклад по Type-Driven Design]]
 - [[Презентаторы и представления]]
 - [[Фабрика значений по-умолчанию]]
